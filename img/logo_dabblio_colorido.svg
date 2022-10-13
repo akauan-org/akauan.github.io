@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="115.54858mm"
+   height="70.820076mm"
+   viewBox="0 0 115.54858 70.820076"
+   version="1.1"
+   id="svg2774"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="logo_dabblio_colorido.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2776"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.73851712"
+     inkscape:cx="395.38691"
+     inkscape:cy="452.25763"
+     inkscape:window-width="2560"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2771" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.26431029,-0.4162586)">
+    <g
+       id="g1757"
+       transform="matrix(0.74547452,0,0,0.74547452,-193.55905,-226.95347)"
+       style="stroke-width:0.35492"
+       inkscape:export-filename="logo_dabblio_colorida.png"
+       inkscape:export-xdpi="1423.1"
+       inkscape:export-ydpi="1423.1">
+      <path
+         style="fill:#030e4f;fill-opacity:1;stroke:none;stroke-width:0.35492px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 320,305 -40.15376,95 135.15377,-95 -40.15376,95 z"
+         id="path1753" />
+      <path
+         style="fill:#f49f1c;fill-opacity:1;stroke:none;stroke-width:0.35492px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;paint-order:fill markers stroke"
+         d="m 320,305 -60.00002,95 155.00003,-95 -60.00002,95 z"
+         id="path1755" />
+    </g>
+  </g>
+</svg>
